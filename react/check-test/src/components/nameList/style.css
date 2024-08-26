@@ -1,0 +1,11 @@
+.name-list {
+  list-style-type: disc;
+  margin-inline: auto;
+  width: 50%;
+  text-align: left;
+  padding-left: 0;
+}
+
+.name-list li {
+  margin-bottom: 0.5em;
+}
